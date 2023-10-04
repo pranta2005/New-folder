@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- #region -->title>LIFE LINE</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+    </header>
+    
+    <main>
+        <p<ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Dessert</a></li>
+            <li><a href="#">Appetizer</a></li>
+            <li><a href="#">Pasta</a></li>
+            <li><a href="#">Salad</a></li>
+            <li><a href="#">Burger</a></li>
+            <li><a href="#">Pizza</a></li>
+            <li><a href="#">More Recipes</a></li>
+        </ul></p>
+        <img src="your-image.jpg" alt="a beautyful sun rise on hill">
+    </main>
+    
+    <footer>
+        <p>Contact information and other details here.</p>
+    </footer>
+</body>
+</html>
